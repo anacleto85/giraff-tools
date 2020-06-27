@@ -1,0 +1,1092 @@
+[
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-10T17:39:45.310+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-10T17:39:56.497+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-10T18:45:51.255+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-10T18:46:09.338+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-10T18:47:40.259+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-10T18:47:43.115+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-11T01:16:44.534+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-11T01:16:52.477+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-11T01:17:05.473+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-11T01:17:17.674+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-15T21:18:48.831+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-15T21:18:49.051+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-15T21:21:52.870+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-15T21:22:00.796+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T05:21:13.107+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T05:21:16.165+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T07:55:02.881+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T07:55:38.799+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T07:57:21.871+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T07:57:24.930+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T07:57:46.849+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T07:57:49.907+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:03:45.526+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:03:55.480+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:08:46.382+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:09:18.474+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:10:27.559+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:10:58.421+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:13:36.517+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:13:38.563+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:15:07.505+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:15:28.411+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:18:53.345+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:19:04.515+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:19:34.579+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:20:27.544+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:22:53.668+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:23:06.461+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:24:21.547+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:24:24.402+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:24:44.496+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:25:15.372+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:25:47.442+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:25:59.424+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:36:28.415+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:37:10.428+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:37:46.357+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:37:57.528+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:40:06.389+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:40:55.505+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:42:04.305+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:42:31.513+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:43:59.392+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:44:06.507+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:44:17.475+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:44:28.443+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:48:30.510+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:48:34.396+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:49:29.405+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:49:34.491+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:59:08.319+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T12:59:09.350+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T13:08:09.325+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T13:08:42.415+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T13:09:53.445+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T13:09:59.359+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T13:10:08.299+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T13:10:17.441+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T13:11:19.330+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T13:11:27.272+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T13:14:17.318+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T13:14:23.419+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T15:09:18.334+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T15:09:24.232+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T15:09:54.280+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T15:09:54.295+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T15:20:40.214+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T15:20:56.268+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T17:31:50.997+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T17:31:55.070+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T17:32:24.915+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T17:32:27.973+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T21:19:23.675+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T21:19:43.769+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T21:21:59.550+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T21:22:02.609+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T21:22:16.619+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-16T21:22:19.677+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T06:40:12.827+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T06:40:15.683+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T06:40:28.678+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T06:40:31.737+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T06:58:51.754+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T06:58:59.680+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T09:39:02.400+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T09:39:10.528+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T09:41:49.385+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T09:41:52.444+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T10:50:30.389+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T10:50:38.334+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T10:50:49.504+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T10:50:49.520+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T10:51:14.296+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T10:51:31.348+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T10:52:42.394+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T10:53:01.271+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:14:37.133+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:14:37.961+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:18:21.036+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:18:26.122+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:21:52.036+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:21:55.939+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:31:06.905+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:31:09.980+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:31:45.926+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:34:57.047+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:35:48.997+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:36:33.046+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:36:35.901+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:36:46.075+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:37:14.906+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T14:37:23.034+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T15:02:29.865+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T15:03:24.857+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T15:03:46.979+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T15:03:57.947+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T15:07:08.933+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T15:07:21.929+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T15:08:24.864+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T15:08:28.936+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T18:03:20.670+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T18:03:28.798+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T18:03:50.734+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T18:03:50.953+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T19:30:50.509+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T19:31:41.465+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T19:32:15.569+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T19:37:22.534+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T19:39:32.442+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T19:39:45.641+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T20:47:57.496+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T20:48:06.436+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T20:51:22.446+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T20:51:22.461+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T20:51:31.388+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-17T20:51:34.446+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T07:26:34.462+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T07:26:41.374+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T07:27:21.358+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T07:27:25.431+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T07:30:38.444+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T07:30:42.516+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T07:32:30.452+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T07:32:30.467+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T09:38:14.166+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T09:38:21.280+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T09:39:43.228+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T09:40:26.238+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T09:41:13.117+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T09:41:21.262+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T10:22:32.038+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T10:22:50.121+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T10:51:04.573+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T10:51:07.111+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T10:52:30.955+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T10:52:36.042+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T10:56:01.047+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T10:56:12.021+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T11:41:00.049+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T11:41:09.005+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T11:46:04.990+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T11:46:16.972+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T11:47:05.913+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T11:47:17.083+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T11:50:19.132+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T11:50:36.995+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T12:38:28.020+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T12:39:27.880+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T12:50:26.850+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T12:50:38.020+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T12:52:57.033+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T12:52:57.048+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:03:11.991+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:03:20.728+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:03:52.821+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:03:59.935+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:09:22.761+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:09:33.931+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:10:30.765+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:10:45.806+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:19:52.834+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:20:07.858+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:27:45.784+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:27:50.888+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:39:56.795+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:40:05.751+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:40:18.747+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T13:40:29.715+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T14:41:18.786+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T14:41:22.672+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T14:41:55.778+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T14:41:59.648+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T15:53:45.621+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-18T15:54:06.543+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T01:32:32.790+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T01:33:04.663+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T01:33:52.573+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T01:33:53.604+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T01:35:14.774+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T01:35:19.658+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T07:23:00.162+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T07:23:09.119+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T07:57:05.970+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T07:57:15.940+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T08:08:57.151+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T08:09:01.021+0200"}
+    },
+    {
+        "values": {"open": "true"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T08:09:40.009+0200"}
+    },
+    {
+        "values": {"open": "false"},
+        "sensor_id": {"$oid": "539ee78ae4b0967d9550d3de"},
+        "timestamp": {"$date": "2015-06-19T08:09:44.081+0200"}
+    }
+]

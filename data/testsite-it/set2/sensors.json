@@ -1,0 +1,73 @@
+{
+    "_id": "539ee467e4b0967d955035cf",
+    "sensors": [
+        {
+            "_id": "539ee777e4b0967d9550d354",
+            "name": "Activity in kitchen"
+        },
+        {
+            "name": "Glucose - Primary User IT4",
+            "_id": "539efca1194ebd370c3c8899"
+        },
+        {
+            "_id": "539ee6cce4b0967d9550ce57",
+            "name": "On bedroom chair"
+        },
+        {
+            "name": "Blood Pressure - Primary User IT4",
+            "_id": "539efca1194ebd370c3c8898"
+        },
+        {
+            "name": "PerS - TestSite_IT_4 Activity Input",
+            "_id": "539ee67073d348bc7da4d7d4"
+        },
+        {
+            "name": "Scale - Primary User IT4",
+            "_id": "539efca1194ebd370c3c8897"
+        },
+        {
+            "_id": "539ee739e4b0967d9550d1b2",
+            "name": "Flood"
+        },
+        {
+            "name": "Body Temperature - Primary User IT4",
+            "_id": "539efca1194ebd370c3c889a"
+        },
+        {
+            "_id": "539ee78ae4b0967d9550d3de",
+            "name": "Fridge open"
+        },
+        {
+            "name": "PerS - TestSite_IT_4 Activity",
+            "_id": "539ee68873d348bc7da4f873"
+        },
+        {
+            "_id": "539ee74be4b0967d9550d23c",
+            "name": "Activity in hallway"
+        },
+        {
+            "_id": "539ee6dfe4b0967d9550cee5",
+            "name": "Activity in living room"
+        },
+        {
+            "_id": "539ee704e4b0967d9550cffd",
+            "name": "Fall"
+        },
+        {
+            "_id": "539ee75de4b0967d9550d2c6",
+            "name": "Entrance door"
+        },
+        {
+            "_id": "539ee727e4b0967d9550d128",
+            "name": "Activity in bathroom"
+        },
+        {
+            "_id": "539ee6f0e4b0967d9550cf6f",
+            "name": "On living room chair"
+        },
+        {
+            "name": "Activity in bedroom",
+            "_id": "539ee6b8e4b0967d9550cdcd"
+        }
+    ]
+}

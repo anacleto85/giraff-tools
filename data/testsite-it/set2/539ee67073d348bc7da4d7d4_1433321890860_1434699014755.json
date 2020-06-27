@@ -1,0 +1,673 @@
+[
+    {
+        "values": {
+            "event_id": "556ed704c2e651376f55410c",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52d9041f7d1ed9e20e837701"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-03T12:29:24.684+0200"}
+    },
+    {
+        "values": {
+            "event_id": "556ee4b3e61a2f0e7c1d45d0",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-03T13:27:51.650+0200"}
+    },
+    {
+        "values": {
+            "event_id": "556ee581c2e651376f55f69d",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52d9041f7d1ed9e20e837701"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-03T13:31:12.994+0200"}
+    },
+    {
+        "values": {
+            "event_id": "556f05fce61a2f0e7c1deb74",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-03T15:49:52.952+0200"}
+    },
+    {
+        "values": {
+            "event_id": "556f2835e61ae9d5f39b1bad",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-03T18:15:53.634+0200"}
+    },
+    {
+        "values": {
+            "event_id": "556f28cfe61a150570c50575",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-03T18:18:28.216+0200"}
+    },
+    {
+        "values": {
+            "event_id": "556f2912e61a150570c650f2",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-03T18:19:34.903+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55707195e61a77d1bbb7e9ab",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-04T17:41:12.848+0200"}
+    },
+    {
+        "values": {
+            "event_id": "5572e9316ab5423b8860ce09",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-06T14:36:04.602+0200"}
+    },
+    {
+        "values": {
+            "event_id": "5572f2306ab5423b88640268",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-06T15:14:27.760+0200"}
+    },
+    {
+        "values": {
+            "event_id": "5576f59a4a4ca0a0efb26f29",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-09T16:18:01.205+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557715354a4ca0a0efb287a9",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-09T18:32:51.710+0200"}
+    },
+    {
+        "values": {
+            "event_id": "5578395c4a4cfe1092762a0c",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T15:19:22.437+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557839764a4cfe1092762aa5",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T15:19:48.350+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557839b04a4c0a8520b7f630",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T15:20:46.384+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557839fb4a4c0a8520b7fdbc",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T15:22:01.174+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55783a524a4c4f1790d41d7b",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T15:23:27.689+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55784a994a4c4f1790d41fd7",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T16:32:55.458+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55784b434a4ce9c7fe13fb4a",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T16:35:45.211+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55784c874a4ce9c7fe14036a",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T16:41:09.124+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55784cf04a4c8f595076f601",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T16:42:53.975+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557852bd4a4c9c5fca17ca5e",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T17:07:38.724+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557854ff4a4c9c5fca17ce81",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T17:17:17.508+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55785dce4a4c9c5fca17fda8",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T17:54:52.517+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557873854a4c9c5fca180087",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T19:27:31.391+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557878a24a4c9c5fca1800ab",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T19:49:20.446+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557878a24a4c9c5fca1800b1",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-10T19:49:20.446+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55795f114a4c8d671f14f2e5",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-11T12:12:30.306+0200"}
+    },
+    {
+        "values": {
+            "event_id": "5579636e4a4c8d671f14fb05",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-11T12:31:06.782+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557965954a4c8d671f14fb8d",
+            "event-type": "Question",
+            "question-type": "YesNo",
+            "question-message": "Ciao Luciana ! Rieccoci qua! Ma ora che ti sei operata la prendi ancora la pillolina delle otto?",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-delay": 0,
+            "event-sender": "52e908dfe4b0eaf180a571f7",
+            "event-recipients": ["539ee489e4b0967d9550376e"],
+            "question-answers": [
+                {"values": {
+                    "event_id": "557965954a4c8d671f14fb8e",
+                    "event-type": "AnswerNotification",
+                    "question-id": "557965954a4c8d671f14fb8d",
+                    "event-home": "539ee467e4b0967d955035cf",
+                    "answer-type": "Yes",
+                    "answer-name": "Yes"
+                }},
+                {"values": {
+                    "event_id": "557965954a4c8d671f14fb8f",
+                    "event-type": "AnswerNotification",
+                    "question-id": "557965954a4c8d671f14fb8d",
+                    "event-home": "539ee467e4b0967d955035cf",
+                    "answer-type": "No",
+                    "answer-name": "No"
+                }},
+                {"values": {
+                    "event_id": "557965954a4c8d671f14fb90",
+                    "event-type": "AnswerNotification",
+                    "question-id": "557965954a4c8d671f14fb8d",
+                    "answer-name": "Yes",
+                    "answer-type": "Yes"
+                }},
+                {"values": {
+                    "event_id": "557965954a4c8d671f14fb91",
+                    "event-type": "AnswerNotification",
+                    "question-id": "557965954a4c8d671f14fb8d",
+                    "answer-name": "No",
+                    "answer-type": "No"
+                }}
+            ]
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-11T12:40:17.533+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55796f914a4c8d671f14fbed",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-11T13:22:54.286+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55797efb4a4c8d671f14fc52",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-11T14:28:40.388+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557990134a4c8d671f14fc96",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-11T15:41:36.211+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557992454a4c8d671f14fcbc",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-11T15:50:57.707+0200"}
+    },
+    {
+        "values": {
+            "event_id": "5579c0364a4c8d671f15008e",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-11T19:06:59.115+0200"}
+    },
+    {
+        "values": {
+            "event_id": "5579c0364a4c8d671f150092",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-11T19:06:59.116+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557ef33a6ab5d5751fc44ef3",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T17:46:05.979+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557ef3626ab5d5751fc453aa",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T17:46:45.808+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557ef4a36ab5d5751fc45470",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T17:52:06.624+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557ef5856ab5d5751fc47546",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T17:55:52.467+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557ef87c6ab5d5751fc47584",
+            "event-type": "Chat",
+            "chat-message": "Prova",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-recipients": [
+                "52ed1f23e4b0e1c0eeb6b15d",
+                "52d9041f7d1ed9e20e837701",
+                "52ed1f82e4b0e1c0eeb6b324",
+                "539977c9e4b05885a9be49aa",
+                "52e908dfe4b0eaf180a571f7",
+                "530b1dc5e4b0aefc9bc07f80",
+                "52051b3a44ae021947487f75",
+                "53a07b7fe4b0967d9556206e",
+                "53b51768e4b08982952a7435",
+                "53bead19e4b0491b5d234bcf",
+                "53beada3e4b0491b5d234f7e",
+                "53beadd0e4b0491b5d23515a",
+                "53bead58e4b0491b5d234da5"
+            ],
+            "event-sender": "52e908dfe4b0eaf180a571f7",
+            "chat-post": true
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T18:08:32.055+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557ef8826ab5d5751fc47587",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T18:08:37.403+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557ef8826ab5d5751fc47589",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T18:08:37.404+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557ef8946ab52f580b6e07b8",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T18:08:56.027+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557ef8e86ab52f580b6e0801",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T18:10:19.078+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557efa3c6ab52f580b6e0856",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T18:15:59.104+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557efce76ab52f580b6e0906",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T18:27:22.211+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557f08a76ab52f580b6e0a26",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T19:17:30.707+0200"}
+    },
+    {
+        "values": {
+            "event_id": "557f08a76ab52f580b6e0a2b",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-15T19:17:30.709+0200"}
+    },
+    {
+        "values": {
+            "event_id": "5582855804199e58618a42e4",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52051b3a44ae021947487f75"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-18T10:46:15.828+0200"}
+    },
+    {
+        "values": {
+            "event_id": "558285ad04199e58618a4b72",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52051b3a44ae021947487f75"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-18T10:47:41.015+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55828c85c30d4fb4a44ab6c4",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "539ee489e4b0967d9550376e"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-18T11:16:53.357+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55828d1504199e58618a4da4",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52051b3a44ae021947487f75"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-18T11:19:17.033+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55828d1504199e58618a4da9",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52051b3a44ae021947487f75"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-18T11:19:17.035+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55828dee0419cb11deb0ea95",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52051b3a44ae021947487f75"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-18T11:22:53.258+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55828e030419cb11deb0eadb",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52051b3a44ae021947487f75"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-18T11:23:14.601+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55828e410419cb11deb0eb94",
+            "event-type": "Remind",
+            "remind-message": "Ciao Luciana!\no spione ? tornato",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-delay": 0,
+            "event-sender": "52051b3a44ae021947487f75",
+            "event-recipients": ["539ee489e4b0967d9550376e"]
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-18T11:24:16.512+0200"}
+    },
+    {
+        "values": {
+            "event_id": "55828e77c30d4fb4a44ab6c7",
+            "event-type": "Remind",
+            "remind-audio-link": "55828e77e4b0aaa587e12e0c",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-time": 1434619511798,
+            "remind-autoplay": false,
+            "remind-message": "Audio Message from Primary User",
+            "event-sender": "539ee489e4b0967d9550376e",
+            "event-recipients": ["52051b3a44ae021947487f75"]
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-18T11:25:11.799+0200"}
+    },
+    {
+        "values": {
+            "event_id": "558291510419cb11deb0ec55",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52051b3a44ae021947487f75"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-18T11:37:20.599+0200"}
+    },
+    {
+        "values": {
+            "event_id": "558291510419cb11deb0ec5a",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52051b3a44ae021947487f75"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-18T11:37:20.602+0200"}
+    },
+    {
+        "values": {
+            "event_id": "5582b5e7136094a58861dd5d",
+            "event-type": "EnumerativeUpdate",
+            "event-home": "539ee467e4b0967d955035cf",
+            "event-sender": "52e908dfe4b0eaf180a571f7"
+        },
+        "sensor_id": {"$oid": "539ee67073d348bc7da4d7d4"},
+        "timestamp": {"$date": "2015-06-18T14:13:19.366+0200"}
+    }
+]

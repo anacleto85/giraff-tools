@@ -1,0 +1,3382 @@
+[
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:35:13.491+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:35:53.492+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:39:09.423+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:39:48.377+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:40:39.500+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:41:11.356+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:41:48.535+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:42:19.427+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:43:41.408+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:44:46.524+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:46:01.425+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:51:09.491+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:51:55.362+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:52:30.464+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:53:01.366+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:54:12.362+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:55:53.374+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:57:33.372+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:58:29.361+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-03T12:59:18.455+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T17:38:19.392+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T17:38:19.629+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T17:39:34.342+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T17:40:04.237+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T17:46:07.365+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T17:46:42.419+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T17:47:28.364+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T17:48:38.279+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T18:43:30.160+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T18:45:19.180+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T18:46:09.118+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T18:47:39.227+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T18:48:09.123+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T23:44:58.666+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T23:46:05.673+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-10T23:47:02.677+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T00:11:26.643+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T00:17:47.728+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T00:18:22.637+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T00:20:32.649+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T00:21:13.648+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T01:13:56.669+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T01:14:36.468+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T01:15:31.476+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T01:16:44.550+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T01:17:17.689+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T01:18:44.533+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T01:19:21.492+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T01:20:46.563+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T01:21:26.549+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-11T01:21:57.594+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T17:55:39.166+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T17:55:44.305+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T17:55:44.336+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T19:19:08.037+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T19:21:07.985+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T19:22:11.122+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T20:15:38.932+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T20:22:33.052+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T20:23:07.950+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T20:24:11.038+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T20:24:46.967+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T20:25:53.951+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T20:27:01.938+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T20:27:36.059+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T21:18:03.946+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T21:18:37.864+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T21:22:26.787+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T21:34:37.766+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T21:35:26.877+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T21:41:53.874+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T21:42:33.891+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T23:32:22.656+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T23:33:56.652+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-15T23:34:31.753+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T04:06:14.261+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T04:07:27.368+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:00:55.202+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:02:49.242+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:18:44.122+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:19:16.214+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:19:47.073+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:22:25.183+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:24:02.155+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:24:41.143+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:25:46.078+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:26:43.082+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:37:08.136+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:38:39.260+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:40:41.073+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T05:43:52.128+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T06:09:28.975+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T06:11:44.061+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T06:14:58.969+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T06:15:34.079+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T06:17:53.064+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T06:20:27.006+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T06:53:05.954+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T06:53:53.037+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T06:57:34.907+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T07:51:57.877+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T07:54:39.931+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T07:57:02.791+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T07:59:32.980+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:02:04.957+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:02:39.889+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:03:49.921+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:04:19.766+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:05:51.885+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:07:15.894+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:07:54.848+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:15:10.891+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:15:47.824+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:22:27.763+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:26:01.742+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:26:33.834+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:27:12.788+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:27:57.826+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:28:55.844+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:30:48.834+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:31:23.749+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:32:47.928+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:33:35.805+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:34:37.912+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:35:38.796+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:36:44.756+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:37:40.762+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:38:12.821+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:38:48.733+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:39:20.809+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:40:45.820+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:42:36.818+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:43:09.907+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:43:51.734+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:44:38.850+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:45:52.872+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:46:40.766+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:47:12.858+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:49:18.830+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:54:03.841+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T08:59:45.795+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T09:07:46.704+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T09:13:17.857+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T09:14:00.714+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T09:18:56.805+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T09:22:41.837+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T09:26:30.743+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T09:28:47.650+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T09:34:19.755+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T09:34:47.758+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T09:35:26.713+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T09:44:56.617+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T09:58:27.650+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T10:26:45.535+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T10:28:20.681+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T10:28:47.670+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:01:30.481+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:02:18.392+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:02:58.393+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:03:29.471+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:04:15.573+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:04:56.386+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:05:27.448+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:05:57.502+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:06:50.450+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:07:51.526+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:08:34.383+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:09:23.358+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:10:27.339+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:11:59.497+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:13:36.502+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:14:22.418+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:15:07.489+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:18:46.433+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:19:34.563+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:20:39.534+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:21:11.390+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:22:53.448+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:24:20.516+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:25:12.499+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:25:46.412+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:26:30.316+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:28:31.471+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:29:48.382+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:30:41.368+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:32:01.355+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:33:35.520+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:34:11.449+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:35:05.444+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:39:31.474+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:40:55.489+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:42:29.469+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:43:57.348+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:48:42.322+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:50:00.466+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:58:17.367+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T12:59:02.421+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T13:02:49.501+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T13:04:03.353+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T13:05:15.397+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T13:06:05.314+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T13:07:37.452+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T13:09:52.414+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T13:14:08.362+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T13:14:39.271+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T14:52:51.193+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T14:53:55.142+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T14:54:58.229+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T14:56:02.161+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T14:56:36.265+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T15:06:26.108+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T15:07:12.210+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T15:09:09.175+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T15:09:54.060+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T15:10:48.298+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T15:19:57.141+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T15:20:38.170+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T15:21:14.132+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T17:27:57.940+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T17:28:47.895+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T17:29:26.883+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T17:31:19.108+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T17:31:49.967+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T17:32:23.884+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T17:32:55.993+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T17:39:16.942+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T17:39:56.960+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T19:19:38.722+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T19:23:56.869+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T19:24:28.742+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T19:26:16.849+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T19:26:51.780+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T19:33:48.795+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T21:18:40.615+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T21:19:11.677+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T21:21:05.758+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T21:21:58.722+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T21:22:32.706+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T21:23:06.624+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T21:41:45.527+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T21:42:31.613+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T21:45:00.585+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T23:52:23.365+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-16T23:53:30.372+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T00:59:01.387+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T01:03:20.270+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T05:35:46.763+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T05:37:32.927+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T05:38:10.867+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:14:33.779+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:15:20.709+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:22:23.827+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:23:17.789+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:23:58.804+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:28:03.807+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:30:17.705+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:31:15.788+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:33:36.801+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:39:39.720+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:40:11.795+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:41:31.739+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:43:00.801+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:44:03.719+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:45:11.723+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:46:27.735+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:47:34.724+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:48:21.825+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:54:07.697+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:55:28.664+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:58:06.683+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:58:50.723+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T06:59:46.763+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T07:06:58.723+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T07:08:10.734+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T07:08:46.646+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T09:38:15.470+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T09:38:48.576+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T09:41:47.544+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T09:47:39.498+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T09:50:19.388+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T09:52:02.439+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T09:53:00.473+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T09:53:50.598+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T09:55:40.358+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T09:58:19.370+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T09:58:54.471+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:00:52.517+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:02:05.575+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:06:41.410+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:07:23.440+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:08:56.558+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:09:49.522+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:27:21.296+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:27:52.358+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:28:28.490+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:29:18.428+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:30:14.451+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:31:09.466+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:31:41.338+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:33:31.339+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:34:07.268+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:34:34.274+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:36:55.308+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:39:12.468+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:39:50.238+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:41:34.323+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:42:08.427+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:44:04.276+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:48:24.351+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:49:20.372+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:50:29.359+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:52:41.363+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:54:54.297+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:55:37.309+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:58:35.247+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T10:59:37.338+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T11:00:48.384+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T11:03:02.265+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T11:03:34.341+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T11:05:21.266+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T11:50:52.235+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T12:57:24.248+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T12:58:40.159+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:00:26.087+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:01:32.231+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:02:03.090+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:02:34.168+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:03:26.102+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:04:24.119+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:05:13.214+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:06:43.080+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:07:44.139+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:50:21.135+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:50:50.980+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:52:35.084+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T13:58:00.004+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:00:24.009+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:01:12.099+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:02:55.950+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:04:01.065+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:05:58.098+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:07:29.990+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:08:03.063+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:09:48.941+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:11:02.996+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:13:39.066+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:14:25.962+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:15:01.113+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:15:54.093+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:16:34.077+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:17:09.989+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:18:04.998+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:19:30.037+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:21:54.081+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:22:25.006+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:30:34.010+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:31:07.124+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:31:45.098+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:34:55.002+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:35:27.078+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:36:24.917+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:37:13.064+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:37:57.949+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T14:38:35.110+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T15:00:56.926+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T15:01:50.877+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T15:02:29.037+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T15:03:23.015+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T15:04:02.830+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T15:06:53.876+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T15:07:41.009+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T15:08:24.036+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T18:00:00.724+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T18:00:33.627+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T18:02:55.692+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T18:03:39.766+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T18:04:13.716+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T19:28:59.478+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T19:30:34.658+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T19:31:39.623+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T19:39:17.587+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T19:40:12.646+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T19:40:54.490+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T19:42:51.556+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T19:56:22.528+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T19:57:23.604+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T19:58:01.561+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T20:00:02.463+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T20:03:39.778+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T20:04:16.721+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T20:10:18.562+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T20:47:24.390+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T20:47:56.465+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T20:51:22.430+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T20:52:04.291+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T20:52:49.363+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T20:53:19.410+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T21:22:55.407+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T21:23:36.439+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T22:18:44.277+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-17T22:21:00.489+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T02:37:44.946+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T02:38:43.841+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T03:28:56.760+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T03:30:06.809+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T05:06:49.711+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T05:07:22.598+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T05:08:34.675+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:15:52.512+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:16:38.355+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:19:28.368+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:22:23.334+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:24:56.378+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:25:32.307+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:26:33.431+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:27:19.517+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:27:55.479+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:28:27.352+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:30:36.399+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:32:34.355+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:38:50.434+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:39:33.495+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:43:23.545+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:47:12.471+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:48:08.291+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T07:59:31.244+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T08:11:37.228+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T08:15:34.318+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T08:22:41.306+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T08:27:22.307+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T08:30:05.392+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T08:34:17.395+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T08:36:28.282+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T08:41:16.364+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T08:45:10.309+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T09:02:57.587+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T09:11:38.214+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T09:13:13.158+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T09:15:59.130+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T09:35:13.177+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T09:35:45.252+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T09:37:59.125+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T09:47:59.109+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T09:57:42.214+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T09:58:49.188+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:01:14.218+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:01:40.193+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:02:41.253+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:03:19.073+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:03:57.063+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:04:19.202+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:04:51.261+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:18:35.063+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:19:01.088+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:20:31.165+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:21:10.160+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:21:43.283+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:22:19.245+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:22:50.340+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:23:44.115+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:28:41.058+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:29:42.184+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:30:51.050+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:31:32.076+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:35:38.310+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:36:51.304+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:39:30.150+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:40:06.062+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:40:35.079+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:41:08.156+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:41:39.201+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:43:37.248+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:45:06.091+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:48:21.575+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:49:13.525+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:50:30.623+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:51:08.142+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:51:53.042+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:52:41.144+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:53:28.090+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:54:16.220+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:54:42.211+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:55:11.059+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:55:54.119+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:56:17.123+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:56:52.073+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:57:19.095+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:58:04.107+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:58:37.002+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:59:19.125+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T10:59:54.134+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:00:21.934+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:00:48.112+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:01:22.042+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:01:55.115+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:02:50.107+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:03:37.173+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:06:13.016+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:06:44.015+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:08:14.076+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:08:51.002+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:09:23.061+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:10:11.141+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:11:14.041+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:12:46.099+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:13:54.070+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:14:44.989+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:15:20.090+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:17:01.118+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:18:40.026+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:19:53.879+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:20:25.954+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:21:01.866+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:21:28.044+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:22:00.915+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:22:32.087+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:23:17.142+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:24:11.931+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:24:39.123+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:25:16.050+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:25:54.006+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:26:38.031+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:27:12.134+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:28:18.074+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:29:05.968+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:29:37.029+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:30:03.021+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:31:07.967+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:31:42.882+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:32:10.090+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:32:51.076+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:33:26.988+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:33:53.977+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:34:29.078+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:35:13.913+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:35:59.966+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:36:38.920+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:37:05.114+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:37:43.911+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:38:09.919+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:38:41.978+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:39:12.009+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:40:14.960+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:40:54.962+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:42:13.934+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:42:44.998+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:43:41.037+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:44:13.129+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:44:47.031+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:45:47.921+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:46:59.998+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:47:31.908+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:48:54.059+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:50:07.962+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:50:53.050+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T11:51:22.894+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:34:41.912+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:36:57.889+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:38:01.842+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:39:52.857+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:49:40.984+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:51:37.880+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:53:09.842+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:54:19.875+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:55:20.967+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:56:04.805+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:57:32.877+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:58:09.820+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T12:58:40.881+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:02:40.913+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:03:11.772+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:03:50.979+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:09:15.849+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:10:15.741+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:17:00.732+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:19:51.803+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:22:50.811+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:27:08.823+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:27:47.829+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:28:25.819+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:29:28.737+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:30:04.869+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:33:33.778+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:38:55.872+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:39:55.764+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:41:27.766+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:55:59.849+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T13:56:40.832+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T14:00:22.877+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T14:01:34.718+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T14:02:13.705+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T14:03:58.836+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T14:04:59.760+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T14:12:13.784+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T14:40:40.811+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T14:41:20.627+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T14:41:53.734+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T14:42:32.762+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T15:48:46.657+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T15:49:54.645+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T15:51:42.601+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T15:53:18.616+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T15:54:03.687+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T15:58:40.561+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T17:26:11.467+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T17:27:12.543+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T17:40:47.498+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T17:42:30.548+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T17:46:11.415+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T17:50:21.485+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T17:52:11.420+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T17:55:17.408+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T17:57:15.454+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T18:10:00.465+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T18:10:48.342+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T18:11:54.472+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T18:13:32.417+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T18:16:03.399+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T18:17:29.235+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T18:18:16.308+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T23:46:24.798+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T23:47:58.803+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T23:48:57.835+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T23:49:28.880+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-18T23:51:41.764+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T00:54:46.744+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T00:55:17.789+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T01:32:00.716+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T01:33:01.604+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T01:35:03.806+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T01:35:34.715+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T02:20:44.506+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T02:21:50.499+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T02:22:27.661+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T02:23:54.684+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T02:24:32.658+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T03:19:40.709+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T03:23:44.607+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:14:47.079+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:15:56.332+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:16:28.080+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:18:00.228+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:18:34.112+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:21:25.138+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:21:57.029+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:22:31.133+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:23:01.193+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:24:11.099+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:25:26.185+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:28:24.082+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:38:05.147+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:39:48.016+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:41:01.107+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:41:41.092+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:42:35.074+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:44:55.023+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:45:41.092+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:56:10.133+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:56:48.074+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T07:57:43.163+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:07:36.979+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:08:10.052+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:08:56.932+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:09:38.978+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:10:28.122+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:12:06.952+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:15:54.020+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:29:30.957+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:30:04.875+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:37:05.933+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:37:43.081+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:43:25.032+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:44:49.008+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T08:54:36.991+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T09:15:34.869+0200"}
+    },
+    {
+        "values": {"is present": "true"},
+        "sensor_id": {"$oid": "539ee6dfe4b0967d9550cee5"},
+        "timestamp": {"$date": "2015-06-19T09:26:38.907+0200"}
+    }
+]

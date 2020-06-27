@@ -8,13 +8,13 @@ from datetime import datetime
 
 
 # import entrance door data into the db
-def import_fridge_data(db, loggging) : 
+def import_fridge_data(db, logging) :
     
     # get db collection
     collection = db.itsite
 
     # open bathroom log file
-    with open('data/testsite-it/testsite-it-fridge.txt', 'r') as f : 
+    with open('data/testsite-it/set1/testsite-it-fridge.txt', 'r') as f :
         # read data records
         for line in f : 
             
@@ -91,7 +91,7 @@ def import_entrance_door_data(db, loggging) :
     collection = db.itsite
 
     # open bathroom log file
-    with open('data/testsite-it/testsite-it-entrancedoor.txt', 'r') as f : 
+    with open('data/testsite-it/set1/testsite-it-entrancedoor.txt', 'r') as f :
         # read data records
         for line in f : 
             
@@ -168,7 +168,7 @@ def import_hallway_data(db, loggging) :
     collection = db.itsite
 
     # open bathroom log file
-    with open('data/testsite-it/testsite-it-hallway.txt', 'r') as f : 
+    with open('data/testsite-it/set1/testsite-it-hallway.txt', 'r') as f :
         # read data records
         for line in f : 
             
@@ -244,7 +244,7 @@ def import_livingroom_data(db, loggging) :
     collection = db.itsite
 
     # open bathroom log file
-    with open('data/testsite-it/testsite-it-livingroom.txt', 'r') as f : 
+    with open('data/testsite-it/set1/testsite-it-livingroom.txt', 'r') as f :
         # read data records
         for line in f : 
             
@@ -321,7 +321,7 @@ def import_bedroom_chair_data(db, logging) :
     collection = db.itsite
     
     # open bathroom log file
-    with open('data/testsite-it/testsite-it-bedroom-chair.txt', 'r') as f : 
+    with open('data/testsite-it/set1/testsite-it-bedroom-chair.txt', 'r') as f :
         # read data records
         for line in f : 
             # extract record parameters
@@ -397,7 +397,7 @@ def import_livingroom_chair_data(db, logging) :
     collection = db.itsite
     
     # open bathroom log file
-    with open('data/testsite-it/testsite-it-livingroom-chair.txt', 'r') as f : 
+    with open('data/testsite-it/set1/testsite-it-livingroom-chair.txt', 'r') as f :
         # read data records
         for line in f : 
             # extract record parameters
@@ -474,7 +474,7 @@ def import_kitchen_data(db, logging) :
     collection = db.itsite
     
     # open bathroom log file
-    with open('data/testsite-it/testsite-it-kitchen.txt', 'r') as f : 
+    with open('data/testsite-it/set1/testsite-it-kitchen.txt', 'r') as f :
         # read data records
         for line in f : 
             # extract record parameters
@@ -549,7 +549,7 @@ def import_bathroom_data(db, logging) :
     collection = db.itsite
     
     # open bathroom log file
-    with open('data/testsite-it/testsite-it-bathroom.txt', 'r') as f : 
+    with open('data/testsite-it/set1/testsite-it-bathroom.txt', 'r') as f :
         # read data records
         for line in f : 
             # extract record parameters
@@ -625,7 +625,7 @@ def import_bedroom_data(db, loggging) :
     collection = db.itsite
 
     # open bathroom log file
-    with open('data/testsite-it/testsite-it-bedroom.txt', 'r') as f : 
+    with open('data/testsite-it/set1/testsite-it-bedroom.txt', 'r') as f :
         # read data records
         for line in f : 
             

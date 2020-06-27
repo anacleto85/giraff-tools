@@ -1,0 +1,5 @@
+[{
+    "values": {"is flooding": "true"},
+    "sensor_id": {"$oid": "539ee739e4b0967d9550d1b2"},
+    "timestamp": {"$date": "2015-06-18T10:57:11.169+0200"}
+}]
